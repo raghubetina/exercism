@@ -1,7 +1,7 @@
-## Order:
+## Order
 
-Bob
-RNA Transcription
-Anagram
-Beer Song
-Word Count
+ - Bob
+ - RNA Transcription
+ - Anagram
+ - Beer Song
+ - Word Count
